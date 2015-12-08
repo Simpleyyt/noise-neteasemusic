@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema path="/edu/sysu/neteasemusic/" id="edu.sysu.neteasemusic">
+    <key type="s" name="username">
+      <default>'hhh'</default>
+      <summary>Username to login</summary>
+      <description>Used to login to Netease Music</description>
+    </key>
+    <key type="s" name="password">
+      <default>''</default>
+      <summary>Password to login</summary>
+      <description>Used to login to Netease Music</description>
+    </key>
+    <key type="b" name="remeber-me">
+      <default>false</default>
+      <summary>Whether or not to auto-login</summary>
+      <description>Whether or not to auto-login</description>
+    </key>
+  </schema>
+</schemalist>
