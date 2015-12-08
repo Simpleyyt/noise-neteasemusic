@@ -1,0 +1,17 @@
+noise-neteasemusic (1.0.0-3) trusty; urgency=low
+
+  * Update debian package
+
+ -- Yitao Yao <simpleyyt@gmail.com>  Tue, 08 Dec 2015 22:04:31 +0800
+
+noise-neteasemusic (1.0.0-2) trusty; urgency=low
+
+  * Update debian package
+
+ -- Yitao Yao <simpleyyt@gmail.com>  Tue, 08 Dec 2015 21:41:31 +0800
+
+noise-neteasemusic (1.0.0-1) trusty; urgency=low
+
+  * Initial release
+
+ -- Yitao Yao <simpleyyt@gmail.com>  Tue, 08 Dec 2015 15:27:31 +0800

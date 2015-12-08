@@ -17,6 +17,16 @@ elementaryOS 上的自带播放器 Noise 的网易云音乐插件插件。
 
 ## 安装
 
+添加 PPA 并安装：
+
+```sh
+sudo add-apt-repository ppa:simpleyyt/ppa
+sudo apt-get update
+sudo apt-get install noise-neteasemusic
+```
+
+## 编译
+
 先行安装 Noise 播放器，如果是 elementaryOS 可免去此步：
 
 ```sh

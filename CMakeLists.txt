@@ -2,7 +2,7 @@
 
 cmake_minimum_required (VERSION 2.8)
 cmake_policy (VERSION 2.8)
-project (NeteaseMusic C)
+project (noise-neteasemusic C)
 list (APPEND CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/cmake)
 
 set (VERSION "1.0.0")
